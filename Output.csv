@@ -1,0 +1,4 @@
+Date,Id,Product_Name,DateOfManuf,Valid_Months,Price,Expiry_Date,Is_Expiring
+25-4-2022,P101,Maggi,2021-10-20,6,20,2022-04-20,Y
+25-4-2022,P109,cupcakes,2022-01-20,3,50,2022-04-20,Y
+25-4-2022,P117,cupcakes,2022-01-20,3,50,2022-04-20,Y
